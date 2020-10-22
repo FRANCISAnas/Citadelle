@@ -1,0 +1,460 @@
+{
+  "cardsOfGames": [
+    {
+      "name": "Temple",
+      "price": "1",
+      "points": "1",
+      "type": "religious",
+      "color": "blue"
+    },
+    {
+      "name": "Temple",
+      "price": "1",
+      "points": "1",
+      "type": "religious",
+      "color": "blue"
+    },
+    {
+      "name": "Temple",
+      "price": "1",
+      "points": "1",
+      "type": "religious",
+      "color": "blue"
+    },
+    {
+      "name": "Eglise",
+      "price": "2",
+      "points": "2",
+      "type": "religious",
+      "color": "blue"
+    },
+    {
+      "name": "Eglise",
+      "price": "2",
+      "points": "2",
+      "type": "religious",
+      "color": "blue"
+    },
+    {
+      "name": "Eglise",
+      "price": "2",
+      "points": "2",
+      "type": "religious",
+      "color": "blue"
+    },
+    {
+      "name": "Eglise",
+      "price": "2",
+      "points": "2",
+      "type": "religious",
+      "color": "blue"
+    },
+    {
+      "name": "Monastère",
+      "price": "3",
+      "points": "3",
+      "type": "religious",
+      "color": "blue"
+    },
+    {
+      "name": "Monastère",
+      "price": "3",
+      "points": "3",
+      "type": "religious",
+      "color": "blue"
+    },
+
+    {
+      "name": "Monastère",
+      "price": "3",
+      "points": "3",
+      "type": "religious",
+      "color": "blue"
+    },
+    {
+      "name": "Cathédrale",
+      "price": "5",
+      "points": "5",
+      "type": "religious",
+      "color": "blue"
+    },
+    {
+      "name": "Cathédrale",
+      "price": "5",
+      "points": "5",
+      "type": "religious",
+      "color": "blue"
+    },
+    {
+      "name": "Manoir",
+      "price": "3",
+      "points": "3",
+      "type": "noble",
+      "color": "yellow"
+    },
+    {
+      "name": "Manoir",
+      "price": "3",
+      "points": "3",
+      "type": "noble",
+      "color": "yellow"
+    },
+    {
+      "name": "Manoir",
+      "price": "3",
+      "points": "3",
+      "type": "noble",
+      "color": "yellow"
+    },
+    {
+      "name": "Manoir",
+      "price": "3",
+      "points": "3",
+      "type": "noble",
+      "color": "yellow"
+    },
+    {
+      "name": "Manoir",
+      "price": "3",
+      "points": "3",
+      "type": "noble",
+      "color": "yellow"
+    },
+    {
+      "name": "Château",
+      "price": "4",
+      "points": "4",
+      "type": "noble",
+      "color": "yellow"
+    },
+    {
+      "name": "Château",
+      "price": "4",
+      "points": "4",
+      "type": "noble",
+      "color": "yellow"
+    },
+    {
+      "name": "Château",
+      "price": "4",
+      "points": "4",
+      "type": "noble",
+      "color": "yellow"
+    },
+    {
+      "name": "Château",
+      "price": "4",
+      "points": "4",
+      "type": "noble",
+      "color": "yellow"
+    },
+    {
+      "name": "Palais",
+      "price": "5",
+      "points": "5",
+      "type": "noble",
+      "color": "yellow"
+    },
+    {
+      "name": "Palais",
+      "price": "5",
+      "points": "5",
+      "type": "noble",
+      "color": "yellow"
+    },
+    {
+      "name": "Taverne",
+      "price": "1",
+      "points": "1",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Taverne",
+      "price": "1",
+      "points": "1",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Taverne",
+      "price": "1",
+      "points": "1",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Taverne",
+      "price": "1",
+      "points": "1",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Taverne",
+      "price": "1",
+      "points": "1",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Echoppe",
+      "price": "2",
+      "points": "2",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Echoppe",
+      "price": "2",
+      "points": "2",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Echoppe",
+      "price": "2",
+      "points": "2",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Marché",
+      "price": "2",
+      "points": "2",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Marché",
+      "price": "2",
+      "points": "2",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Marché",
+      "price": "2",
+      "points": "2",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Marché",
+      "price": "2",
+      "points": "2",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Comptoir",
+      "price": "3",
+      "points": "3",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Comptoir",
+      "price": "3",
+      "points": "3",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Comptoir",
+      "price": "3",
+      "points": "3",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Port",
+      "price": "4",
+      "points": "4",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Port",
+      "price": "4",
+      "points": "4",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Port",
+      "price": "4",
+      "points": "4",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Hôtel de ville",
+      "price": "5",
+      "points": "5",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Hôtel de ville",
+      "price": "5",
+      "points": "5",
+      "type": "marchand",
+      "color": "green"
+    },
+    {
+      "name": "Tour de guêt",
+      "price": "1",
+      "points": "1",
+      "type": "militaire",
+      "color": "red"
+    },
+    {
+      "name": "Tour de guêt",
+      "price": "1",
+      "points": "1",
+      "type": "militaire",
+      "color": "red"
+    },
+    {
+      "name": "Tour de guêt",
+      "price": "1",
+      "points": "1",
+      "type": "militaire",
+      "color": "red"
+    },
+    {
+      "name": "Prison",
+      "price": "2",
+      "points": "2",
+      "type": "militaire",
+      "color": "red"
+    },
+    {
+      "name": "Prison",
+      "price": "2",
+      "points": "2",
+      "type": "militaire",
+      "color": "red"
+    },
+    {
+      "name": "Prison",
+      "price": "2",
+      "points": "2",
+      "type": "militaire",
+      "color": "red"
+    },
+    {
+      "name": "Caserne",
+      "price": "3",
+      "points": "3",
+      "type": "militaire",
+      "color": "red"
+    },
+    {
+      "name": "Caserne",
+      "price": "3",
+      "points": "3",
+      "type": "militaire",
+      "color": "red"
+    },
+    {
+      "name": "Caserne",
+      "price": "3",
+      "points": "3",
+      "type": "militaire",
+      "color": "red"
+    },
+    {
+      "name": "Forteresse",
+      "price": "5",
+      "points": "5",
+      "type": "militaire",
+      "color": "red"
+    },
+    {
+      "name": "Forteresse",
+      "price": "5",
+      "points": "5",
+      "type": "militaire",
+      "color": "red"
+    },
+    {
+      "name": "Cour des miracles",
+      "price": "2",
+      "points": "2",
+      "type": "merveille",
+      "color": "purple"
+    },
+    {
+      "name": "Donjon",
+      "price": "3",
+      "points": "3",
+      "type": "merveille",
+      "color": "purple"
+    },
+    {
+      "name": "Donjon",
+      "price": "3",
+      "points": "3",
+      "type": "merveille",
+      "color": "purple"
+    },
+    {
+      "name": "Laboratoire",
+      "price": "5",
+      "points": "5",
+      "type": "merveille",
+      "color": "purple"
+    },
+    {
+      "name": "Manufacture",
+      "price": "5",
+      "points": "5",
+      "type": "merveille",
+      "color": "purple"
+    },
+    {
+      "name": "Observatoire",
+      "price": "5",
+      "points": "5",
+      "type": "merveille",
+      "color": "purple"
+    },
+    {
+      "name": "Cimetière",
+      "price": "5",
+      "points": "5",
+      "type": "merveille",
+      "color": "purple"
+    },
+    {
+      "name": "Bibliothèque",
+      "price": "6",
+      "points": "6",
+      "type": "merveille",
+      "color": "purple"
+    },
+    {
+      "name": "Ecole de magie",
+      "price": "6",
+      "points": "6",
+      "type": "merveille",
+      "color": "purple"
+    },
+    {
+      "name": "Universite",
+      "price": "6",
+      "points": "8",
+      "type": "merveille",
+      "color": "purple"
+    },
+    {
+      "name": "Dracoport",
+      "price": "6",
+      "points": "8",
+      "type": "merveille",
+      "color": "purple"
+    }
+  ]
+}
